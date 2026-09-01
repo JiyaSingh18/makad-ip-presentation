@@ -34,4 +34,4 @@ Navigate: **← →** arrow keys · **F11** fullscreen for screenshots.
 
 ## Author
 
-**Jiya Singh** · 2309397 · [M4K4-D](https://github.com/JiyaSingh18/M4K4-D)
+**Jiya Singh** · **Meet Jain** · [M4K4-D](https://github.com/JiyaSingh18/M4K4-D)
