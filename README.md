@@ -1,32 +1,37 @@
-# IP & Innovation in AI — Makad (M4K4-D)
+# Makad · IP & Innovation in AI
 
-Screenshot-ready presentation analysing **Intellectual Property** for the **Makad / M4K4-D** AI companion robot project.
+Static presentation for **M4K4-D / Makad** — intellectual property & innovation analysis applied to the expressive AI floor droid project.
 
-Deploy on [Vercel](https://vercel.com) — import repo, no build step.
+**Deploy on Vercel:** import this repo → no build step → deploy.
 
-## Topic
+## Live deploy
 
-IP protection strategy applied to Makad: Copyright, Patent, Trade Secret, Trademark — with Anki Vector as industry case study.
+1. Go to [vercel.com/new](https://vercel.com/new)
+2. Import `JiyaSingh18/makad-ip-presentation`
+3. Framework: **Other** (static)
+4. Deploy — `index.html` is served at root
 
-## Slides (14)
+## Slides (14 + thank you)
 
-| # | Content | Rubric |
-|---|---------|--------|
-| 01 | Title (Makad hero) | — |
-| 02 | What is Makad + why IP matters | Context |
-| 03 | Five IP types mapped to Makad | Concept clarity |
-| 04 | Copyright — animations, sounds, storyboard, code | Concept clarity |
-| 05 | Patent — 3-axis head, expression composer | Concept clarity |
-| 06 | Trade secret + trademark | Concept clarity |
-| 07 | Case study: Anki Vector shutdown | Case study |
-| 08 | AI/ML IP issues in Makad | AI/ML relevance |
-| 09 | Critical analysis & gaps | Critical analysis |
-| 10 | Recommended IP strategy | Innovation insight |
-| 11 | Future outlook | Innovation insight |
-| 12 | Sources | Research depth |
-| 13 | Q&A prep | Q&A |
-| 14 | Thank you | — |
+| # | Topic |
+|---|--------|
+| 01 | Title |
+| 02 | Makad + why IP matters |
+| 03 | Innovation → IP type mapping |
+| 04 | Copyright · Makad |
+| 05 | Patent · Makad |
+| 06 | Trade secret + trademark · Makad |
+| 07 | Research paper · Makad (Plos One, RP-01) |
+| 08 | Industry product · Anki Vector |
+| 09 | Landmark case · Thaler v. Perlmutter |
+| 10 | AI/ML IP in Makad's stack |
+| 11 | Critical analysis + future outlook |
+| 12 | IP action plan |
+| 13 | Sources + Q&A |
+| 14 | Thank you |
+
+Navigate: **← →** arrow keys · **F11** fullscreen for screenshots.
 
 ## Author
 
-Jiya Singh · 2309397 · [M4K4-D repo](https://github.com/JiyaSingh18/M4K4-D)
+**Jiya Singh** · 2309397 · [M4K4-D](https://github.com/JiyaSingh18/M4K4-D)
